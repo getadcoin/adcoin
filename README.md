@@ -1,7 +1,7 @@
 AdCoin integration/staging tree
 ================================
 
-http://www.adcoin.org
+http://www.getadcoin.com
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 AdCoin Developers
